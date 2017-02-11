@@ -1,2 +1,1 @@
-# dotfiles
-Metalnem's dotfiles
+# Metalnem's dotfiles
