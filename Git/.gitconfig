@@ -1,0 +1,11 @@
+[push]
+	default = simple
+[user]
+	email = metalnem@mijailovic.net
+	name = Metalnem
+[merge]
+	tool = kdiff3
+[diff]
+	tool = kdiff3
+[core]
+	editor = atom --wait

@@ -1,0 +1,14 @@
+{
+    "editor.codeLens": false,
+    "editor.detectIndentation": false,
+    "editor.formatOnSave": true,
+    "editor.insertSpaces": false,
+    "editor.tabSize": 4,
+    "files.hotExit": "off",
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "go.formatTool": "goimports",
+    "go.gopath": "/Users/Metalnem/Go",
+    "window.zoomLevel": 0,
+    "editor.wordWrap": true
+}

@@ -1,0 +1,5 @@
+www.google.com###rhs
+www.google.com###appbar
+||youtube.com/annotations_invideo*
+||www.blogger.com/navbar.g
+www.youtube.com###appbar-guide-menu
