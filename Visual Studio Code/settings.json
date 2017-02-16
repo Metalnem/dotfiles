@@ -1,14 +1,22 @@
 {
-    "editor.codeLens": false,
-    "editor.detectIndentation": false,
-    "editor.formatOnSave": true,
-    "editor.insertSpaces": false,
-    "editor.tabSize": 4,
-    "files.hotExit": "off",
-    "telemetry.enableTelemetry": false,
-    "telemetry.enableCrashReporter": false,
-    "go.formatTool": "goimports",
-    "go.gopath": "/Users/Metalnem/Go",
-    "window.zoomLevel": 0,
-    "editor.wordWrap": true
+	"editor.codeLens": false,
+	"editor.detectIndentation": false,
+	"editor.formatOnSave": true,
+	"editor.insertSpaces": false,
+	"editor.tabSize": 4,
+	"files.hotExit": "off",
+	"telemetry.enableTelemetry": false,
+	"telemetry.enableCrashReporter": false,
+	"go.formatTool": "goimports",
+	"go.gopath": "/Users/Metalnem/Go",
+	"window.zoomLevel": 0,
+	"editor.wordWrap": true,
+	"extensions.autoUpdate": true,
+	"files.exclude": {
+		"**/.git": true,
+		"**/.hg": true,
+		"**/.DS_Store": true,
+		"**/bin": true,
+		"**/obj": true
+	}
 }
