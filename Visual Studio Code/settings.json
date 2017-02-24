@@ -8,7 +8,7 @@
 	"telemetry.enableTelemetry": false,
 	"telemetry.enableCrashReporter": false,
 	"go.formatTool": "goimports",
-	"go.gopath": "/Users/Metalnem/Go",
+	"go.gopath": "~/Go",
 	"window.zoomLevel": 0,
 	"editor.wordWrap": true,
 	"extensions.autoUpdate": true,
