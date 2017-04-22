@@ -1,1 +1,5 @@
--f best --write-sub -o "%(title)s.%(ext)s"
+-f "best[ext!=webm]"
+-o "%(title)s.%(ext)s"
+--prefer-ffmpeg
+--write-sub
+--convert-subs srt
