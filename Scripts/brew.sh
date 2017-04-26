@@ -8,7 +8,6 @@ brew cask install kdiff3
 
 brew install bash
 brew install ffmpeg
-brew install go-delve/delve/delve
 brew install grep
 brew install node
 brew install rsync
