@@ -3,14 +3,16 @@
 	"editor.detectIndentation": false,
 	"editor.formatOnSave": true,
 	"editor.insertSpaces": false,
+	"editor.minimap.enabled": false,
+	"editor.renderIndentGuides": false,
 	"editor.tabSize": 4,
 	"files.hotExit": "off",
 	"telemetry.enableTelemetry": false,
 	"telemetry.enableCrashReporter": false,
 	"go.formatTool": "goimports",
-	"go.gopath": "~/Go",
+	"go.gopath": "/Users/Metalnem/Go",
 	"window.zoomLevel": 0,
-	"editor.wordWrap": true,
+	"editor.wordWrap": "on",
 	"extensions.autoUpdate": true,
 	"files.exclude": {
 		"**/.git": true,
@@ -18,5 +20,6 @@
 		"**/.DS_Store": true,
 		"**/bin": true,
 		"**/obj": true
-	}
+	},
+	"workbench.iconTheme": "vs-seti"
 }
