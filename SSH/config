@@ -3,7 +3,7 @@ Host prase
 	User nemanja
  	AddKeysToAgent yes
  	UseKeychain yes
- 	IdentityFile ~/Keys/nemanja@mijailovic.net
+ 	IdentityFile ~/Keys/prase
 
 Host github.com
 	AddKeysToAgent yes
