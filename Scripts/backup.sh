@@ -1,10 +1,10 @@
 #!/bin/bash
 
 rsync --delete -avz --exclude='.DS_Store' \
-	~/Data/Music/Rips \
 	~/Dropbox/Apps \
 	~/Dropbox/Books \
 	~/Dropbox/Important \
+	~/Dropbox/Music/Rips \
 	~/Dropbox/Pictures \
 	~/Dropbox/Projects \
 	~/Dropbox/Software \
