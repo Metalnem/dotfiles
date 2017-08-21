@@ -28,3 +28,6 @@ defaults write NSGlobalDomain NSAutomaticSpellingCorrectionEnabled -bool false
 
 # Disable shadow in screenshots
 defaults write com.apple.screencapture disable-shadow -bool true
+
+# Disable inline attachments in Mail.app
+defaults write com.apple.mail DisableInlineAttachmentViewing -bool yes
