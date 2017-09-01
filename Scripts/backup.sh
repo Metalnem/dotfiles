@@ -10,6 +10,7 @@ rsync --delete -avzL --exclude='.DS_Store' \
 	~/Dropbox/Music/Rips \
 	~/Dropbox/Pictures \
 	~/Dropbox/Projects \
+	~/Dropbox/Reversing \
 	~/Dropbox/Software \
 	~/Dropbox/Videos \
 	~/Private \
