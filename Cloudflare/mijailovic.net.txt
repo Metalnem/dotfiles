@@ -1,6 +1,6 @@
 ;; 
 ;; Domain:     mijailovic.net
-;; Exported:   2017-07-25 14:56:11
+;; Exported:   2017-09-04 14:53:07
 ;; 
 ;; This file is intended for use for informational and archival
 ;; purposes ONLY and MUST be edited before use on a production
@@ -25,7 +25,7 @@
 ;; Use at your own risk.
 $ORIGIN .
 @	3600	IN	SOA	mijailovic.net.	root.mijailovic.net.	(
-		2025266117	; serial
+		2025620338	; serial
 		7200		; refresh
 		3600		; retry
 		86400		; expire
@@ -37,25 +37,17 @@ $ORIGIN .
 mijailovic.net.	300	IN	NS	REPLACE&ME$WITH^YOUR@NAMESERVER.
 
 ;; MX Records
-mijailovic.net.	300	IN	MX	20	in2-smtp.messagingengine.com.
 mijailovic.net.	300	IN	MX	10	in1-smtp.messagingengine.com.
+mijailovic.net.	300	IN	MX	20	in2-smtp.messagingengine.com.
 
 ;; TXT Records
 mijailovic.net.	300	IN	TXT	"v=spf1 include:spf.messagingengine.com ?all"
 
-;; SRV Records (Service locator)
-_jabber._tcp.mijailovic.net.	300	IN	SRV	10			0	5269	xmpp1.hosted.im.
-_xmpp-client._tcp.mijailovic.net.	300	IN	SRV	10			0	5222	xmpp1.hosted.im.
-_jabber._tcp.mijailovic.net.	300	IN	SRV	20			0	5269	xmpp2.hosted.im.
-_xmpp-server._tcp.mijailovic.net.	300	IN	SRV	20			0	5269	xmpp2.hosted.im.
-_xmpp-client._tcp.mijailovic.net.	300	IN	SRV	20			0	5222	xmpp2.hosted.im.
-_xmpp-server._tcp.mijailovic.net.	300	IN	SRV	10			0	5269	xmpp1.hosted.im.
-
 ;; CNAME Records
-fm3._domainkey.mijailovic.net.	300	IN	CNAME	fm3.mijailovic.net.dkim.fmhosted.com.
 fm1._domainkey.mijailovic.net.	300	IN	CNAME	fm1.mijailovic.net.dkim.fmhosted.com.
 www.mijailovic.net.	300	IN	CNAME	metalnem.github.io.
 fm2._domainkey.mijailovic.net.	300	IN	CNAME	fm2.mijailovic.net.dkim.fmhosted.com.
+fm3._domainkey.mijailovic.net.	300	IN	CNAME	fm3.mijailovic.net.dkim.fmhosted.com.
 
 ;; A Records (IPv4 addresses)
 mijailovic.net.	300	IN	A	192.30.252.153
