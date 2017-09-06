@@ -7,6 +7,7 @@ brew tap caskroom/cask
 brew cask install kdiff3
 
 brew install bash
+brew install dep
 brew install ffmpeg
 brew install git
 brew install grep
