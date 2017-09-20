@@ -13,6 +13,7 @@ brew install git
 brew install grep
 brew install node
 brew install rsync
+brew install tmux
 brew install tree
 brew install unrar
 brew install youtube-dl
