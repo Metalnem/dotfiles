@@ -7,6 +7,7 @@ $GOPATH/bin/hashes create \
 	~/Dropbox/Books \
 	~/Dropbox/Music/Amazon \
 	~/Dropbox/Music/Bandcamp \
+	~/Dropbox/Music/NoBusiness\ Records \
 	~/Dropbox/Music/Other \
 	~/Dropbox/Music/Rips \
 	~/Dropbox/Pictures \
