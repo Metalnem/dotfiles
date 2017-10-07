@@ -4,6 +4,7 @@ brew update
 brew upgrade
 
 brew tap caskroom/cask
+brew cask install gcc-arm-embedded
 brew cask install kdiff3
 
 brew install bash
