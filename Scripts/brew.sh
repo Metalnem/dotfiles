@@ -4,6 +4,7 @@ brew update
 brew upgrade
 
 brew tap caskroom/cask
+
 brew cask install gcc-arm-embedded
 brew cask install kdiff3
 
@@ -14,8 +15,6 @@ brew install git
 brew install grep
 brew install node
 brew install rsync
-brew install ruby
-brew install tmux
 brew install tree
 brew install unrar
 brew install youtube-dl
