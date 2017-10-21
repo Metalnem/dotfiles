@@ -12,6 +12,7 @@ brew install bash
 brew install dep
 brew install ffmpeg
 brew install git
+brew install go
 brew install grep
 brew install node
 brew install rsync
