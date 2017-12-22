@@ -6,6 +6,7 @@ rsync --delete-after --chmod=Du=rwx,Dgo=rx,Fu=rw,Fgo=r -avzL --iconv=utf-8-mac,u
 	~/Dropbox/Important \
 	~/Dropbox/Music \
 	~/Dropbox/Pictures \
+	~/Dropbox/Private \
 	~/Dropbox/Projects \
 	~/Dropbox/Reversing \
 	~/Dropbox/Software \
