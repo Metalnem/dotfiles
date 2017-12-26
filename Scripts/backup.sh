@@ -3,6 +3,7 @@
 rsync --delete -avzL --exclude='.DS_Store' \
 	~/Dropbox/Apps \
 	~/Dropbox/Books \
+	~/Dropbox/Crypto \
 	~/Dropbox/Important \
 	~/Dropbox/Music/Amazon \
 	~/Dropbox/Music/iTunes \
