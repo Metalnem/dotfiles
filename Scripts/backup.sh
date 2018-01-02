@@ -16,5 +16,4 @@ rsync --delete -avzL --exclude='.DS_Store' \
 	~/Dropbox/Reversing \
 	~/Dropbox/Software \
 	~/Dropbox/Videos \
-	~/Private \
 	/Volumes/Backup
