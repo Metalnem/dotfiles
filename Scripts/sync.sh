@@ -4,9 +4,11 @@ rsync --delete-after --chmod=Du=rwx,Dgo=rx,Fu=rw,Fgo=r -avzL --iconv=utf-8-mac,u
 	~/Dropbox/Apps \
 	~/Dropbox/Books \
 	~/Dropbox/Crypto \
+	~/Dropbox/Documents \
 	~/Dropbox/Important \
 	~/Dropbox/Music \
 	~/Dropbox/Pictures \
+	~/Dropbox/Portfolio \
 	~/Dropbox/Private \
 	~/Dropbox/Projects \
 	~/Dropbox/Reversing \
