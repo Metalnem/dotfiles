@@ -2,11 +2,11 @@
 	default = simple
 [user]
 	email = metalnem@mijailovic.net
-	name = Metalnem
+	name = Nemanja Mijailovic
 [merge]
 	tool = kdiff3
 [diff]
 	tool = kdiff3
 [core]
-	editor = atom --wait
+	editor = code --wait
 	excludesfile = /Users/Metalnem/.gitignore_global
