@@ -10,6 +10,7 @@ brew cask install kdiff3
 
 brew install bash
 brew install dep
+brew install docfx
 brew install ffmpeg
 brew install git
 brew install go
