@@ -19,6 +19,7 @@ brew install node
 brew install rsync
 brew install tree
 brew install unrar
+brew install wget
 brew install youtube-dl
 
 # Switch to using brew-installed bash as default shell
