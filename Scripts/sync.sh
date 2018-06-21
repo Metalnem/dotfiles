@@ -12,7 +12,6 @@ rsync --delete-after --chmod=Du=rwx,Dgo=rx,Fu=rw,Fgo=r -avzL --iconv=utf-8-mac,u
 	~/Dropbox/Portfolio \
 	~/Dropbox/Private \
 	~/Dropbox/Projects \
-	~/Dropbox/Reversing \
 	~/Dropbox/Software \
 	~/Dropbox/Videos \
 	nemanja@prase:/mnt/raid/backup/
