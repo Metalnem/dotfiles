@@ -15,5 +15,3 @@ rsync --delete-after --chmod=Du=rwx,Dgo=rx,Fu=rw,Fgo=r -avzL --iconv=utf-8-mac,u
 	~/Dropbox/Software \
 	~/Dropbox/Videos \
 	nemanja@prase:/mnt/raid/backup/
-
-ssh prase "ls /mnt/raid/public/ -LR" > ~/Dropbox/Important/Storage.txt
