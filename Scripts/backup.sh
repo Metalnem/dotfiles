@@ -3,7 +3,7 @@
 rsync --delete -avzL --exclude='.DS_Store' \
 	~/Dropbox/Apps \
 	~/Dropbox/Backup \
-	~/Dropbox/Books \
+	~/OneDrive/Books \
 	~/OneDrive/Crypto \
 	~/OneDrive/Documents \
 	~/Dropbox/Important \

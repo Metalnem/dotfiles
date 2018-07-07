@@ -4,7 +4,7 @@ cd ~/Dropbox/Important
 go get github.com/metalnem/hashes
 
 $GOPATH/bin/hashes create \
-	~/Dropbox/Books \
+	~/OneDrive/Books \
 	~/OneDrive/Crypto \
 	~/OneDrive/Documents \
 	~/Dropbox/Music \
