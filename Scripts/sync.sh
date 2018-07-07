@@ -4,14 +4,14 @@ rsync --delete-after --chmod=Du=rwx,Dgo=rx,Fu=rw,Fgo=r -avzL --iconv=utf-8-mac,u
 	~/Dropbox/Apps \
 	~/Dropbox/Backup \
 	~/Dropbox/Books \
-	~/Dropbox/Crypto \
-	~/Dropbox/Documents \
+	~/OneDrive/Crypto \
+	~/OneDrive/Documents \
 	~/Dropbox/Important \
 	~/Dropbox/Music \
 	~/Dropbox/Pictures \
-	~/Dropbox/Portfolio \
+	~/OneDrive/Portfolio \
 	~/Dropbox/Private \
-	~/Dropbox/Projects \
-	~/Dropbox/Software \
+	~/OneDrive/Projects \
+	~/OneDrive/Software \
 	~/Dropbox/Videos \
 	nemanja@prase:/mnt/raid/backup/
