@@ -2,16 +2,16 @@
 
 rsync --delete-after --chmod=Du=rwx,Dgo=rx,Fu=rw,Fgo=r -avzL --iconv=utf-8-mac,utf-8 --exclude='.DS_Store' \
 	~/Dropbox/Apps \
-	~/Dropbox/Backup \
+	~/OneDrive/Backup \
 	~/OneDrive/Books \
 	~/OneDrive/Crypto \
 	~/OneDrive/Documents \
-	~/Dropbox/Important \
-	~/Dropbox/Music \
-	~/Dropbox/Pictures \
+	~/OneDrive/Important \
+	~/OneDrive/Music \
+	~/OneDrive/Pictures \
 	~/OneDrive/Portfolio \
-	~/Dropbox/Private \
+	~/OneDrive/Private \
 	~/OneDrive/Projects \
 	~/OneDrive/Software \
-	~/Dropbox/Videos \
+	~/OneDrive/Videos \
 	nemanja@prase:/mnt/raid/backup/

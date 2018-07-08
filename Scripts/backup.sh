@@ -2,20 +2,20 @@
 
 rsync --delete -avzL --exclude='.DS_Store' \
 	~/Dropbox/Apps \
-	~/Dropbox/Backup \
+	~/OneDrive/Backup \
 	~/OneDrive/Books \
 	~/OneDrive/Crypto \
 	~/OneDrive/Documents \
-	~/Dropbox/Important \
-	~/Dropbox/Music/Amazon \
-	~/Dropbox/Music/iTunes \
-	~/Dropbox/Music/NoBusiness\ Records \
-	~/Dropbox/Music/Other \
-	~/Dropbox/Music/Rips \
-	~/Dropbox/Pictures \
+	~/OneDrive/Important \
+	~/OneDrive/Music/Amazon \
+	~/OneDrive/Music/iTunes \
+	~/OneDrive/Music/NoBusiness\ Records \
+	~/OneDrive/Music/Other \
+	~/OneDrive/Music/Rips \
+	~/OneDrive/Pictures \
 	~/OneDrive/Portfolio \
-	~/Dropbox/Private \
+	~/OneDrive/Private \
 	~/OneDrive/Projects \
 	~/OneDrive/Software \
-	~/Dropbox/Videos \
+	~/OneDrive/Videos \
 	/Volumes/Backup
