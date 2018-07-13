@@ -25,5 +25,6 @@
 	"workbench.iconTheme": "vs-seti",
 	"workbench.startupEditor": "newUntitledFile",
 	"explorer.confirmDelete": false,
-	"explorer.confirmDragAndDrop": false
+	"explorer.confirmDragAndDrop": false,
+	"omnisharp.path": "latest"
 }
