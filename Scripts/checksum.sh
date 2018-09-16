@@ -8,8 +8,8 @@ $GOPATH/bin/hashes create \
 	~/OneDrive/Crypto \
 	~/OneDrive/Documents \
 	~/OneDrive/Music \
+	~/OneDrive/Other \
 	~/OneDrive/Pictures \
-	~/OneDrive/Portfolio \
 	~/OneDrive/Private \
 	~/OneDrive/Software \
 	~/OneDrive/Videos

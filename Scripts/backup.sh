@@ -12,8 +12,8 @@ rsync --delete -avzL --exclude='.DS_Store' \
 	~/OneDrive/Music/NoBusiness\ Records \
 	~/OneDrive/Music/Other \
 	~/OneDrive/Music/Rips \
+	~/OneDrive/Other \
 	~/OneDrive/Pictures \
-	~/OneDrive/Portfolio \
 	~/OneDrive/Private \
 	~/OneDrive/Projects \
 	~/OneDrive/Software \
