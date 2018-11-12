@@ -9,8 +9,6 @@ $GOPATH/bin/hashes create \
 	~/OneDrive/Documents \
 	~/OneDrive/Music \
 	~/OneDrive/Other \
-	~/OneDrive/Papers \
 	~/OneDrive/Pictures \
-	~/OneDrive/Private \
 	~/OneDrive/Software \
 	~/OneDrive/Videos
