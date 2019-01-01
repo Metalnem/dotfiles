@@ -9,6 +9,7 @@ rsync --delete-after --chmod=Du=rwx,Dgo=rx,Fu=rw,Fgo=r -avzL --iconv=utf-8-mac,u
 	~/OneDrive/Important \
 	~/OneDrive/Music \
 	~/OneDrive/Other \
+	~/OneDrive/Papers \
 	~/OneDrive/Pictures \
 	~/OneDrive/Projects \
 	~/OneDrive/Software \
