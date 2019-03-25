@@ -1,8 +1,7 @@
 #!/bin/bash
 
 rsync --delete-after --chmod=Du=rwx,Dgo=rx,Fu=rw,Fgo=r -avzL --iconv=utf-8-mac,utf-8 --exclude='.DS_Store' \
-	~/Dropbox/Apps \
-	~/OneDrive/Backup \
+	~/OneDrive/1Password \
 	~/OneDrive/Books \
 	~/OneDrive/Documents \
 	~/OneDrive/Important \
