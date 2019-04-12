@@ -7,12 +7,12 @@ brew tap caskroom/cask
 brew cask install kdiff3
 
 brew install bash
-brew install docfx
 brew install ffmpeg
 brew install git
 brew install go
 brew install grep
 brew install node
+brew install protobuf
 brew install rsync
 brew install tree
 brew install unrar
