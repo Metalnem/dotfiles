@@ -26,5 +26,8 @@
 	"workbench.startupEditor": "newUntitledFile",
 	"explorer.confirmDelete": false,
 	"explorer.confirmDragAndDrop": false,
-	"omnisharp.path": "latest"
+	"omnisharp.path": "latest",
+	"docker.languageserver.diagnostics.instructionWorkdirRelative": "ignore",
+	"html.format.wrapLineLength": 0,
+	"html.format.wrapAttributes": "preserve-aligned"
 }
