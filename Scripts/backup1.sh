@@ -1,6 +1,6 @@
 #!/bin/bash
 
-rsync --delete-after -avzL --exclude='.DS_Store' \
+rsync --delete-after -avzL --iconv=utf-8,utf-8-mac --exclude='.DS_Store' \
 	~/OneDrive/1Password \
 	~/OneDrive/Books \
 	~/OneDrive/Documents \
