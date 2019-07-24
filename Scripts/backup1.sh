@@ -1,6 +1,6 @@
 #!/bin/bash
 
-rsync --delete-after --chmod=Du=rwx,Dgo=rx,Fu=rw,Fgo=r -avzL --iconv=utf-8-mac,utf-8 --exclude='.DS_Store' \
+rsync --delete-after -avzL --exclude='.DS_Store' \
 	~/OneDrive/1Password \
 	~/OneDrive/Books \
 	~/OneDrive/Documents \
@@ -12,4 +12,4 @@ rsync --delete-after --chmod=Du=rwx,Dgo=rx,Fu=rw,Fgo=r -avzL --iconv=utf-8-mac,u
 	~/OneDrive/Projects \
 	~/OneDrive/Software \
 	~/OneDrive/Videos \
-	nemanja@prase:/mnt/raid/backup/
+	/Volumes/Backup1
