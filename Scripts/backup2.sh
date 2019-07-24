@@ -7,7 +7,6 @@ rsync --delete-after -avzL --exclude='.DS_Store' \
 	~/OneDrive/Important \
 	~/OneDrive/Music \
 	~/OneDrive/Other \
-	~/OneDrive/Papers \
 	~/OneDrive/Pictures \
 	~/OneDrive/Projects \
 	~/OneDrive/Software \
