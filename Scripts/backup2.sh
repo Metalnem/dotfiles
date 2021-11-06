@@ -13,7 +13,6 @@ rsync --delete-after -avzL --iconv=utf-8,utf-8-mac --exclude='.DS_Store' \
 	/Volumes/Backup2
 
 rsync --delete-after -avzL --iconv=utf-8,utf-8-mac --exclude='.DS_Store' \
-	~/OneDrive/Music/Amazon \
 	~/OneDrive/Music/Cafe\ OTO \
 	~/OneDrive/Music/iTunes \
 	~/OneDrive/Music/NoBusiness\ Records \
