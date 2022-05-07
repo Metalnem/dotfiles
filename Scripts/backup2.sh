@@ -21,7 +21,6 @@ rsync --delete-after -avzL --iconv=utf-8,utf-8-mac --exclude='.DS_Store' \
 	~/OneDrive/Music/Rips \
 	~/OneDrive/Music/Torrents \
 	~/OneDrive/Music/Vinyl \
-	~/OneDrive/Music/YouTube \
 	/Volumes/Backup2/Music
 
 rsync -avzL --iconv=utf-8,utf-8-mac --exclude='.DS_Store' \
