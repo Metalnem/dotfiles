@@ -7,6 +7,7 @@ rsync --delete-after -avzL --iconv=utf-8,utf-8-mac --exclude='.DS_Store' \
 	~/OneDrive/Food \
 	~/OneDrive/Important \
 	~/OneDrive/Other \
+	~/OneDrive/Papers \
 	~/OneDrive/Pictures \
 	~/OneDrive/Projects \
 	~/OneDrive/Software \
