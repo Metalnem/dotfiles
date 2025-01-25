@@ -16,6 +16,8 @@ rsync --delete-after -avzL --iconv=utf-8,utf-8-mac --exclude='.DS_Store' \
 	/Volumes/Backup1
 
 rsync -avzL --iconv=utf-8,utf-8-mac --exclude='.DS_Store' \
+	~/OneDrive/Music/Amazon \
+	~/OneDrive/Music/Bandcamp \
 	~/OneDrive/Music/Bootlegs \
 	~/OneDrive/Music/Cafe\ OTO \
 	~/OneDrive/Music/iTunes \
@@ -25,11 +27,3 @@ rsync -avzL --iconv=utf-8,utf-8-mac --exclude='.DS_Store' \
 	~/OneDrive/Music/Torrents \
 	~/OneDrive/Music/Vinyl \
 	/Volumes/Backup1/Music
-
-rsync -avzL --iconv=utf-8,utf-8-mac --exclude='.DS_Store' \
-	~/OneDrive/Archive\ \(latest\)/ \
-	/Volumes/Backup1/Archive
-
-rsync -avzL --iconv=utf-8,utf-8-mac --exclude='.DS_Store' \
-	~/OneDrive/Bandcamp\ \(latest\)/ \
-	/Volumes/Backup1/Music/Bandcamp
